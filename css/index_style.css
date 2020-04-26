@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper h1{
+    color: #aaaaaa;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+.wrapper hr{
+    background-color: rgb(155, 152, 152);  
+    margin-top: 30px;
+}
+.bookmark-content{
+background-color: #EEE;
+}
+.wrapper input {
+    margin : 0 auto;
+}
+.wrapper p{
+    color: #aaaaaa;
+    margin-top: 30px;
+}
+.bookmarks{
+    background-image: linear-gradient(rgb(231, 231, 231),white);
+    
+}
+.bookmarks h4{
+    display: inline;
+}
+.search{
+    background-color: #EEE;
+}
+.search label{
+    color: royalblue;
+}
+/*.bookmark-content .invalid-feedback{
+    background-color:rgba(255, 0, 0,0.2);
+    color: rgba(54, 13, 13, 0.411);
+    font-weight: bolder;
+    text-align: center;
+}*/
